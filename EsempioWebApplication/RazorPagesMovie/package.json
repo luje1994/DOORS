@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "bower": "^1.8.14",
+    "globalize": "^1.7.0"
+  }
+}

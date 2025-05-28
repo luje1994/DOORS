@@ -1,0 +1,13 @@
+C:\PROGETTI-DOORS\CalendarioLav\CalendarioLav\bin\Debug\CalendarioLav.exe.config
+C:\PROGETTI-DOORS\CalendarioLav\CalendarioLav\bin\Debug\CalendarioLav.exe
+C:\PROGETTI-DOORS\CalendarioLav\CalendarioLav\bin\Debug\CalendarioLav.pdb
+C:\PROGETTI-DOORS\CalendarioLav\CalendarioLav\bin\Debug\CalendarioLav.xml
+C:\PROGETTI-DOORS\CalendarioLav\CalendarioLav\obj\Debug\CalendarioLav.vbproj.AssemblyReference.cache
+C:\PROGETTI-DOORS\CalendarioLav\CalendarioLav\obj\Debug\CalendarioLav.MainForm.resources
+C:\PROGETTI-DOORS\CalendarioLav\CalendarioLav\obj\Debug\CalendarioLav.Resources.resources
+C:\PROGETTI-DOORS\CalendarioLav\CalendarioLav\obj\Debug\CalendarioLav.TimbratureForm.resources
+C:\PROGETTI-DOORS\CalendarioLav\CalendarioLav\obj\Debug\CalendarioLav.vbproj.GenerateResource.cache
+C:\PROGETTI-DOORS\CalendarioLav\CalendarioLav\obj\Debug\CalendarioLav.vbproj.CoreCompileInputs.cache
+C:\PROGETTI-DOORS\CalendarioLav\CalendarioLav\obj\Debug\CalendarioLav.exe
+C:\PROGETTI-DOORS\CalendarioLav\CalendarioLav\obj\Debug\CalendarioLav.xml
+C:\PROGETTI-DOORS\CalendarioLav\CalendarioLav\obj\Debug\CalendarioLav.pdb

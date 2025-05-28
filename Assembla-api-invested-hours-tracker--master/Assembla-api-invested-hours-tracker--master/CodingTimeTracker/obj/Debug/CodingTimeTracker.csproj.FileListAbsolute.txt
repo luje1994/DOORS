@@ -1,0 +1,13 @@
+c:\users\nick\documents\visual studio 2015\Projects\CodingTimeTracker\CodingTimeTracker\bin\Debug\CodingTimeTracker.exe.config
+c:\users\nick\documents\visual studio 2015\Projects\CodingTimeTracker\CodingTimeTracker\bin\Debug\CodingTimeTracker.exe
+c:\users\nick\documents\visual studio 2015\Projects\CodingTimeTracker\CodingTimeTracker\bin\Debug\CodingTimeTracker.pdb
+c:\users\nick\documents\visual studio 2015\Projects\CodingTimeTracker\CodingTimeTracker\obj\Debug\CodingTimeTracker.csprojResolveAssemblyReference.cache
+c:\users\nick\documents\visual studio 2015\Projects\CodingTimeTracker\CodingTimeTracker\obj\Debug\CodingTimeTracker.Properties.Resources.resources
+c:\users\nick\documents\visual studio 2015\Projects\CodingTimeTracker\CodingTimeTracker\obj\Debug\CodingTimeTracker.csproj.GenerateResource.Cache
+c:\users\nick\documents\visual studio 2015\Projects\CodingTimeTracker\CodingTimeTracker\obj\Debug\CodingTimeTracker.exe
+c:\users\nick\documents\visual studio 2015\Projects\CodingTimeTracker\CodingTimeTracker\obj\Debug\CodingTimeTracker.pdb
+c:\users\nick\documents\visual studio 2015\Projects\CodingTimeTracker\CodingTimeTracker\obj\Debug\CodingTimeTracker.MainForm.resources
+C:\Users\Nick\documents\visual studio 2015\Projects\CodingTimeTracker\CodingTimeTracker\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Nick\documents\visual studio 2015\Projects\CodingTimeTracker\CodingTimeTracker\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Nick\documents\visual studio 2015\Projects\CodingTimeTracker\CodingTimeTracker\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nick\documents\visual studio 2015\Projects\CodingTimeTracker\CodingTimeTracker\bin\Debug\Newtonsoft.Json.xml
